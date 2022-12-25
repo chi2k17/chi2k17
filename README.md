@@ -20,4 +20,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: www.linkedin.com/in/caleb-williamswade-906891197
