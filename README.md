@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <h1>Hi, Caleb, an <a href="www.linkedin.com/in/caleb-williamswade-906891197">IT Professional</a>☺</h1>
+ <h1>Hi, Im Caleb, an <a href="www.linkedin.com/in/caleb-williamswade-906891197">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
