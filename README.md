@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 
 
  <h1>Hi, Im Caleb, an <a href="www.linkedin.com/in/caleb-williamswade-906891197">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
