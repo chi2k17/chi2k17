@@ -5,7 +5,8 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-
+- 
+  - [osTicket: Desk ticketing system](https://github.com/chi2k17/Desk ticketing system)
   - [osTicket: Prerequisites and Installation](https://github.com/chi2k17/OsTicket)
   - [osTicket: Post-Installation Configuration](https://github.com/chi2k17/Post-install--Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/chi2k17/Ticket---Life-cycle)
